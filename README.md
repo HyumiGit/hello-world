@@ -1,10 +1,10 @@
 # hello-world
-**This is a ==test== repository**
+**This is a test repository**
 
 ---
 
 ## Why this is made
-1. To test github's features
+1. To ==test== github's features
 2. To learn about github
 3. To mess around
 
